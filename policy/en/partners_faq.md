@@ -28,7 +28,7 @@ EMBED-VIDEO
 #### General
 
 1. What are "bars"?
- * Bars are the YouNow currency. Your fans buy bars and use them to purchase premium gifts that help them further engage with broadcasters and stand out from the crowd. 
+ * Bars are the YouNow currency. Your fans buy bars and use them to purchase premium gifts that help them further engage with broadcasters and support them. 
 
 2. How do I earn money?
  * You earn money during your broadcasts when you receive bars. You receive bars from the four premium gifts (see more details below).
@@ -36,13 +36,13 @@ EMBED-VIDEO
 3. What gifts can people buy with bars?
  * There are four gifts that users can buy with bars: 
 
-   50 Likes: A gift that helps: helps the broadcaster trend 
+   50 Likes: helps the broadcaster trend 
 
-    Fan Mail: Al: a personalized note viewers send to the broadcaster that stands out from the chat 
+    Fan Mail: A personalized note viewers send to the broadcaster that's displayed above the chat 
 
-    Marriage Proposal: Nl: No commitments here —  — just some fan love!
+    Marriage Proposal: No commitments here —  — just some fan love!
 
-    Bars: These: directly support partner earnings
+    Tip Jar: These bars directly support partner earnings
 
     ![gifts](https://cloud.githubusercontent.com/assets/7524065/9689304/30550a88-5303-11e5-80e2-e5f27e7b6a1f.png)
 
